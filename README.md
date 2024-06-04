@@ -1,1 +1,1 @@
-# conayes-game-o-life
+# conayes-game-of-life
